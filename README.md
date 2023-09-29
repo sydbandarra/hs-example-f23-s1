@@ -1,9 +1,10 @@
 # hs-example-f23-s1
 <!--#= Header 1-->
 This is a demo of the first homework assignment. README.md using Markdown language.
+
 Tag Line
 
-##Team Member Name 1 
+## Team Member Name 1 
 <!--**_** = Bold-->
 **Likes:**
 **Hobbies:**
